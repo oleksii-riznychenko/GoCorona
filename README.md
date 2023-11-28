@@ -1,3 +1,3 @@
 # GoCorona
 Pet project > Simple learning landing page GoCorona
-https://aleksey-reznichenko.github.io/GoCorona/
+https://oleksii-riznychenko.github.io/GoCorona/
